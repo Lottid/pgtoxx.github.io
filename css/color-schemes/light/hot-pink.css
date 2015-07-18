@@ -64,7 +64,7 @@ blockquote {
 
 @media all and (max-width:800px){
 	.sidebar-font {
-		color: rgb(164, 157, 154);
+		/*color: rgb(164, 157, 154);*/
 	}
 }
 

@@ -63,10 +63,10 @@ a {
  * Text & other Colors
  */
 
-a:hover {
+/*a:hover {
 	color: rgb(156, 18, 140);
 	border-bottom: dotted 1px rgb(156, 18, 140);
-}
+}*/
 
 .sparator {
 	border-bottom: dashed 1px rgb(90, 87, 86);
